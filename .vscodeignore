@@ -1,3 +1,13 @@
+.augment
+.augment/**
+.codex
+.codex/**
+.superpowers
+.superpowers/**
+.tasks
+.tasks/**
+.work
+.work/**
 .claude/**
 .devcontainer/**
 .github/**
@@ -55,3 +65,4 @@ tsconfig*.tsbuildinfo
 webpack.config*.mjs
 yarn.lock
 .wdio-vscode-service
+*.vsix
